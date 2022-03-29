@@ -1,2 +1,2 @@
 # Git-Renner-Aula01
-Aula 1 cultura devops
+Este projeto é um exemplo para a turma de formação em Dados da Renner junto à Cesar.
